@@ -1,0 +1,42 @@
+body {
+    text-align:center;
+}
+
+.box {
+    height: 250px;
+    width: 250px;
+    border: 10px solid black;
+    border-radius: 45px;
+    margin: 1.5rem;
+
+}
+
+.container
+{
+    display: flex;
+    justify-content: center;
+}
+.yellow
+{
+background-color: #f99b45;
+}
+.red{
+    background-color: #d95980;
+
+}
+.purple
+{
+background-color: #819ff9;
+}
+.green
+{
+    background-color: #63aac0;
+}
+.gameflashh
+{
+    background-color: #fff;
+}
+.userflashh
+{
+    background-color:green;
+}
